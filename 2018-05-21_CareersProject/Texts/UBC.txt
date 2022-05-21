@@ -1,0 +1,32 @@
+NAME OF PROGRAM: Computer Engineering
+
+ENTRANCE REQUIREMENTS
+General admission requirements:
+Final grade of 70% in Grade 11 or Grade 12 English
+(or equivalent course, including provincial examinations where applicable).
+Graduation from high school with a minimum average of 70% (or higher for many programs).
+
+Degree-specific requirements: Applied Science (Engineering)
+Grade 12 - ENG4U, MHF4U, SCH4U, SPH4U, Two other Grade 12 4U or 4M courses
+Grade 11 - Chemistry 11 (SCH3U), Physics 11 (SPH3U)
+
+LENGTH OF PROGRAM: Four years
+
+COST
+Master of Applied Science $4,801.80
+Master of Engineering degree $5,836.44 
+Doctor of Philosophy $4,801.80
+
+COURSE OF STUDY/TRAINING (EXAMPLES)
+CPSC 103 Introduction to Systematic Program Design
+CPSC 110 Computation, Programs, and Programming
+CPSC 121 Models of Computation
+CPSC 210 Software Construction
+CPSC 213 Introduction to Computer Systems
+CPSC 221 Basic Algorithms and Data Structures
+CPSC 298 Co-operative Work Placement I
+CPSC 299 Co-operative Work Placement II
+CPSC 304 Introduction to Relational Databases
+CPSC 313 Computer Hardware and Operating Systems
+
+CREDENTIAL AWARDED: Bachelor of Applied Science (Engineering)

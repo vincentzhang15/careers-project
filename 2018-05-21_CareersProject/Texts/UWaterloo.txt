@@ -1,0 +1,32 @@
+NAME OF PROGRAM: Software Engineering
+
+ENTRANCE REQUIREMENTS
+Ontario students: 6 Grade 12 U and/or M courses including         
+    Advanced Functions (minimum final grade of 70% is required)
+    Calculus and Vectors (minimum final grade of 70% is required)
+    Chemistry (minimum final grade of 70% is required)
+    Physics (minimum final grade of 70% is required)
+    English (ENG4U) (minimum final grade of 70% is required)
+    Recommended courses:
+        Grade 11 U Introduction to Computer Science
+        Grade 12 U Computer Science
+    Admission averages: Individual selection from the mid-90s
+
+LENGTH OF PROGRAM: Four years
+
+COST
+Tuition and Incidentals: $17,446
+Books, Supplies: $2000
+
+COURSE OF STUDY/TRAINING (EXAMPLES)
+CS 137 - Programming Principles
+CS 138 Introduction to Data Abstraction and Implementation
+CS 241 Foundations of Sequential Programs
+CS 240 Data Structures and Data Management
+CS 247 Software Engineering Principles
+CS 341 Algorithms
+CS 349 User Interfaces
+CS 343 Concurrent and Parallel Programming
+CS 348 Introduction to Database Management
+
+CREDENTIAL AWARDED: Bachelor of Applied Science degree

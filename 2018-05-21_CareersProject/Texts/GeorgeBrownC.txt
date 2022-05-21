@@ -1,0 +1,27 @@
+NAME OF PROGRAM: Computer Programmer Analyst 
+
+ENTRANCE REQUIREMENTS
+Applicants are selected on the basis of their academic achievement, including the required
+courses, and any other selection criteria outlined below.
+
+Ontario Secondary School Diploma or equivalent
+Grade 12 English (C or U)
+Grade 11 Math (M or U) or Grade 12 (C or U)
+
+LENGTH OF PROGRAM: Three years
+
+COST: $4,128.00
+
+COURSE OF STUDY/TRAINING (EXAMPLES)
+COMP1151 IT Essentials
+COMP1176 Introduction to Networks - CCNA I
+COMP1223 Web Development Fundamentals
+COMP1168 Database Management
+COMP1202 Object-Oriented Programming
+COMP1231 Web Programming
+COMP1232 Operating System Installation and Support
+COMP1230 Advanced Web Programming
+COMP2129 Advanced Object-Oriented Programming
+COMP2130 Application Development using Java
+
+CREDENTIAL AWARDED: Ontario College Advanced Diploma
